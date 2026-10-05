@@ -1,0 +1,13 @@
+{
+  "column_aliases": {
+    "date": ["Sale Date", "Datum"],
+    "product": ["Article"],
+    "quantity": ["Pieces"],
+    "unit_price": ["Net Price"],
+    "region": ["Branch"],
+    "order_id": ["Receipt No"]
+  },
+  "date_formats": ["%d/%m/%Y", "%Y-%m-%d", "%d.%m.%Y"],
+  "decimal_separator": ".",
+  "currency_symbol": "$"
+}
